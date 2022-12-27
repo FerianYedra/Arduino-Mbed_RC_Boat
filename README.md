@@ -209,7 +209,7 @@ espere a que ambos módulos comiencen a parpadear dos veces simultáneamente de 
 - Los módulos HC-05 comenzarán a desconectarse alrededor de los 2 a 3 metros.
 
 ## Recursos externos
-- [Lista de comandos AT del HC-05] (https://www.teachmemicro.com/hc-05-bluetooth-command-list/)
+- [Lista de comandos AT del HC-05](https://www.teachmemicro.com/hc-05-bluetooth-command-list/)
 - [Esquemas del barco](https://www.instructables.com/RC-Boat-2/)
 
 </p>
